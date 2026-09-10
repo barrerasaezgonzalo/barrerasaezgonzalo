@@ -1,16 +1,25 @@
-## Hi there 👋
+# Gonzalo Barrera
 
-<!--
-**barrerasaezgonzalo/barrerasaezgonzalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Engineer especializado en frontend y desarrollo de productos web.
 
-Here are some ideas to get you started:
+Trabajo principalmente con React, Next.js, TypeScript y arquitecturas modernas, con experiencia en testing, performance, integración de APIs y desarrollo de productos completos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+
+React · Next.js · TypeScript · JavaScript · Tailwind CSS · Node.js · Supabase · Vercel · Vitest · React Testing Library
+
+## Actualmente
+
+Construyendo proyectos personales enfocados en IA, productividad y herramientas para desarrolladores.
+
+- Talo — aprendizaje guiado por IA
+- Refine — mejora y estructuración de prompts
+- Rise — generación de planes personalizados de wellness
+- Personal Dashboard — panel personal para organizar información y herramientas de uso diario
+
+## Links
+
+- https://talo-plum.vercel.app
+- https://refine-steel.vercel.app
+- https://rise-inky-rho.vercel.app
+- https://dashboard-dusky-omega-73.vercel.app
