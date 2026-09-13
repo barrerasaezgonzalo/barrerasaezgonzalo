@@ -16,6 +16,7 @@ Construyendo proyectos personales enfocados en IA, productividad y herramientas 
 - Refine — mejora y estructuración de prompts
 - Rise — generación de planes personalizados de wellness
 - Personal Dashboard — panel personal para organizar información y herramientas de uso diario
+- Workspace — Gestiona tus tareas y proyectos de forma simple y organizada
 
 ## Links
 
@@ -23,3 +24,4 @@ Construyendo proyectos personales enfocados en IA, productividad y herramientas 
 - https://refine-steel.vercel.app
 - https://rise-inky-rho.vercel.app
 - https://dashboard-dusky-omega-73.vercel.app
+- https://workspace-gold-nu-83.vercel.app/
